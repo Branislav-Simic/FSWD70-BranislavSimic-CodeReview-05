@@ -1,0 +1,79 @@
+
+/* main conatiner */
+.container {
+	background-color: black;
+}
+
+
+/* title on the top  */
+#title {
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	padding: 10px 16px 10px 16px;
+	margin: 0px;
+	
+}
+
+/* naviagtion bar */
+#navbar {
+	 background-color: #434343;
+	 color: white;
+	 
+}
+
+#navbar ul {
+	margin: 0px;
+}
+
+#navbar ul li {
+	 background-color: #434343;
+	 color: white;
+	 display: inline-block;
+	 border: none;
+
+}
+
+
+/* second title  */
+.head {
+	padding: 0px;
+	background-color: #171E24;
+	color: white;
+}
+
+
+/* sort button */
+.btn:click {
+	border: none;
+}
+
+
+/* movie panel = picture description usw. */
+#mp {
+	background-color: #171E24;
+}
+
+
+/* footer = the bottom of the page = page ending */
+#footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	padding: 10px 16px 10px 16px;
+	margin: 0px;
+}
+
+
+/* change mouseCourser, when you are with your mouse on a button */
+#pointer { 
+	cursor: pointer;
+}  
+
+.select{
+	cursor: pointer;
+}
+

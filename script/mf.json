@@ -1,0 +1,45 @@
+var movieslist=[
+         {
+            "gender":"Comedy",
+            "title":"Let's be Cops",
+            "img":"img/cops.jpg",
+            "description":"Let's Be Cops is a 2014 American buddy cop action comedy film co-written and directed by Luke Greenfield. The film stars Jake Johnson and Damon Wayans Jr. as two friends who pretend to be police officers in Los Angeles.",
+            "like": 0,
+            
+
+        },{
+            "gender":"Comedy",
+            "title":"The wedding chrasher",
+            "img":"img/chrasher.jpg",
+            "description":"John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.",
+            "like": 0,
+             
+        },{
+            "gender":"Action",
+            "title":"Fast and Furious",
+            "img":"img/fast.jpg",
+            "description":"The Fast and the Furious (colloquial: Fast & Furious) is an American media franchise centered on a series of action films that is largely concerned with illegal street racing, heists and spies. The franchise also includes short films, a television series, live shows, and theme park attractions.",
+            "like": 0,
+             
+        },{
+            "gender":"Action",
+            "title":"Ip man 2",
+            "img":"img/ipman.jpg",
+            "description":"Centering on Ip Man's migration to Hong Kong in 1949 as he attempts to propagate his discipline of Wing Chun martial arts. Ip Man 2 is a 2010 Hong Kong biographical martial arts film loosely based on the life of Ip Man, a grandmaster of the martial art Wing Chun.",
+            "like": 0,
+             
+        },{
+            "gender":"Drama",
+            "title":"Get rich or die trin'",
+            "img":"img/get.jpg",
+            "description":"This crime drama is the story of a young man named Marcus (50 Cent) who as a young boy wanted to be a rapper but turns to dealing drugs when his mother is killed. After barely doing better than minimum wage, he soon becomes one of the best earners in the drug-world business",
+            "like": 0, 
+        },{
+            "gender":"Drama",
+            "title":"Pickpockets",
+            "img":"img/pick.jpg",
+            "description":"Parents need to know that Pickpockets is a 2018 drama in which three teens who pickpocket pedestrians on the streets of Bogotá learn from a master. As the title suggests, there are many scenes in which the lead characters steal wallets, change purses, and smartphones out of the pockets of unwitting victims.",
+            "like": 0,
+             
+        }
+];
